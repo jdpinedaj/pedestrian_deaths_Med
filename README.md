@@ -4,7 +4,7 @@ Juan Pineda-Jaramillo<sup>a</sup> \
 
 Journal of Transport & Health, Volume 19, 2020, 100912, ISSN 2214-1405 \
 https://doi.org/10.1016/j.jth.2020.100912 \
-https://www.sciencedirect.com/science/article/pii/S221414052030116X#
+https://www.sciencedirect.com/science/article/pii/S221414052030116X
 
 ## Abstract: 
 Introduction \
