@@ -1,4 +1,4 @@
-## Modelling road traffic collisions using clustered zones based on Foursquare data in Medellín
+## A Shallow Neural Network approach for identifying the leading causes associated to pedestrian deaths in Medellín
 Juan Pineda-Jaramillo<sup>a</sup> \
 <sup>a</sup>University of Luxembourg
 
